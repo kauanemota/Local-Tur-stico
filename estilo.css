@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&family=Frijole&family=Nosifer&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 body{
     background-color: #F5F4F0;
@@ -8,3 +9,62 @@ body{
     width: 1120px;
     margin: 88px auto;
 }
+
+#inicio p, #about hr + p { /*Headlines */
+    font-family: 'Open Sans', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#introducao p {
+    font-family: 'Open Sans', Times, serif;
+    font-size: 16px;
+    font-style: italic;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Open Sans', Times, serif;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+/* #about hr + p {
+    font-family: 'Open Sans', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+} */
+
+h2 {
+    font-family: 'Open Sans', Times, serif;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: 'Open Sans', Times, serif;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+p + p {
+    font-family: 'Open Sans', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+ul {
+    font-family: 'Open Sans', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Open Sans', Times, serif;
+    font-size: 16px;
+}
+
+#descricao {
+    text-align: center;
+}
+
