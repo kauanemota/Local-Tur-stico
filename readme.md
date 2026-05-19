@@ -1,10 +1,15 @@
-# 🌏 Página Local Turístico
+<h1 align="center"> Desafio Local Turístico</h1>
 
-Projeto desenvolvido durante os estudos de HTML e CSS da Rocketseat.
+<p align="center">Primeiro projeto desenvolvido do curso Full-Stack da Rocketseat</p>
 
-## 🚀 Tecnologias
-- HTML5
-- CSS3
+![Preview](images/preview.png)
+
+## Tecnologias
+<ul>
+    <li>HTML5 para a estruturaçãodo conteúdo</li>
+    <li>CSS3 para estilização</li>
+    <li>Google Fonts para personalização tipografica</li>
+</ul>
 
 ## 📚 O que pratiquei
 - Estrutura semântica
@@ -16,8 +21,4 @@ Projeto desenvolvido durante os estudos de HTML e CSS da Rocketseat.
 - Tipografia
 - Organização com CSS
 
-## 🎨 Projeto
-Uma página turística sobre Busan, na Coreia do Sul.
-
-## 💙 Desenvolvido por
-Kauane
+## Projeto
