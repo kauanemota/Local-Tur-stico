@@ -22,3 +22,4 @@
 - Organização com CSS
 
 ## Projeto
+<a href="https://kauanemota.github.io/Local-Tur-stico/">Ver projeto online</a>
