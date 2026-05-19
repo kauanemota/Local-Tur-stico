@@ -11,7 +11,7 @@
     <li>Google Fonts para personalização tipografica</li>
 </ul>
 
-## 📚 O que pratiquei
+## O que pratiquei
 - Estrutura semântica
 - Sections e Header
 - Box Model
