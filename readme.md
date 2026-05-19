@@ -23,3 +23,9 @@
 
 ## Projeto
 <a href="https://kauanemota.github.io/Local-Tur-stico/">Ver projeto online</a>
+
+## 👩‍💻 Autor
+
+Feito por Kauane
+
+🔗 GitHub: https://github.com/kauanemota
