@@ -26,6 +26,6 @@
 
 ## 👩‍💻 Autor
 
-Feito por Kauane
+Feito por Kauane Mota
 
 🔗 GitHub: https://github.com/kauanemota
